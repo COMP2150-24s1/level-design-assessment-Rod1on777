@@ -1,24 +1,26 @@
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
-
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
+### Name: Rodion Korshunov
+### Student number: 47848774
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
+Goal: Lead the player on a journey of discovery, introducing them to the game's mechanics and world naturally and interestingly.
+#### Design choices:
+Gradual Introduction to Mechanics:  The initial encounter introduces basic mechanics in an isolated area, allowing players to experiment without feeling overwhelmed.  Subsequent encounters 2 and 3 could build on these foundations, introducing novel interactions between previously known mechanics. 
+
+#### Environmental Storytelling:
+The gaming world itself can be a teacher.  Environmental riddles, level design that discreetly guides the study, and visual cues provide knowledge without needing written hints.
+
+Safe Experimentation Spaces: My design allows players to put their abilities and new knowledge to the test in a low-risk environment.  This is most noticeable in encounter 1:
+Скрин1
+If the player fails to jump, he will fall to the platform below, which saves him from falling and losing HP. In addition, this allows the player not only to safely complete this section of the level but also to hone their skills by making 2 jumps, instead of missing one, without rolling back the player’s progress.
+Скрин2
+The screenshot shows a safe grassy platform, which serves as the player's starting point. The calm environment helps the player relax and familiarize themselves with the movement controls. The first minor obstacle is also presented to the player: a one-block jump, which serves as a quick check to see if he has grasped the basic controls. A closed door on the left indicates the direction from which the player's character came, providing a clear goal for where to proceed next.
+
+The level structure is designed to guide players towards intuitive learning of game mechanics, creating the illusion of self-directed learning without external prompts. By discovering mechanics independently, players experience a sense of accomplishment and ownership over their knowledge. A world that teaches through its design feels more natural and believable.
+This approach to discovery through level design fosters a sense of agency and immersion, creating the foundation for a more rewarding and engaging gameplay experience.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
