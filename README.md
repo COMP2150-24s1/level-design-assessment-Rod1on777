@@ -177,35 +177,51 @@ No additional words are necessary for this section (any words should only be wit
  
 ### 3.1. Molecule Diagram
 
+
+
 ### 3.2. Level Map – Section 1
+
+Green lines - main path
+
+Blue lines - optional path
+
+Yellow lines - Fell but took no damage
+
+Red lines - Wrong action that led to death
+
+![level1](DocImages/level1.png)
 
 ### 3.3.	Level Map – Section 2
 
+![level2](DocImages/level2.png)
+
 ### 3.4.	Level Map – Section 3
 
+![level3](DocImages/level3.png)
+
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+Using iterative design was essential in determining my proficiency. Here's how it helped:
+Early drawn prototypes:
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+![pic31](DocImages/pic31.png)
 
-## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
+The level's exploration flow and opponent placement were better visualized with the aid of rough sketches of the layout.
+Storyboards for games to come:
 
 
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+The majority of the storyboards were made for the areas that introduced new elements, like difficult jumps, fighting situations, and environment-based puzzles.
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
+Modification considering internal testing:
+•	In Unity, a few modifications were made from the original level design sketches:
+•	Many platform distances were changed to conform to the character's physics.
+•	Additional health pickups were strategically placed in response to early enemy encounters that proved slightly more difficult than anticipated. After that, the sketch was modified to account for these adjustments (for ease).
+These iterations show how the level is continuously improved based on different testing and prototyping phases.
 
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
+The goal for additional development:
+The last encounter in the third basement encounter is one place where a more iterative design could be beneficial. At the moment, it entails taking off a few simple mobs as well as a mini-boss with a wide strike radius.
+This might be made more challenging by adding a mini-boss with distinct attack patterns that would need to be defeated by carefully using the staff or handgun that player just obtained.
+This would improve player preparation for impending challenges and make the encounter more captivating and fascinating.
+Through iterative design, my level evolved from a concept into a well-balanced and engaging introduction to the core game mechanics. Further iterations of specific encounters can continue to refine the gameplay and ensure a smooth learning curve for players.
 
 
