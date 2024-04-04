@@ -32,6 +32,7 @@ My level creates a gripping experience through a well-crafted intensity curve, w
 The game's dramatic pacing includes environmental exploration, combat encounters, puzzles, and safe spaces to create a dynamic gameplay rhythm. The difficulty of encounters also gradually increases as the player progresses. This builds tension and a sense of accomplishment.
 
 Here are some examples of how this is implemented in my game:
+
 Safe zone: The player can explore the area and learn the basic movement controls.
 
 ![pic3](DocImages/pic3.png)
@@ -73,8 +74,8 @@ Overall the dynamic pacing allows for moments of both tension and relief, adding
 ### 1.3. Challenge
 
 3.	New enemy types and mechanics are introduced gradually, allowing players to master concepts before facing more complex challenges.
-My level is designed so that enemy attacks are clearly telegraphed, and player abilities provide meaningful counterplay. For example:
-The player explores a peaceful cave, unaware of the impending encounter:
+My level is designed so that enemy attacks are clearly visible, and player abilities provide meaningful counterplay. For example:
+The player explores a peaceful cave, unaware of the oncoming encounter:
 
 ![pic12](DocImages/pic12.png)
 
@@ -82,7 +83,7 @@ The player is given their first weapon and is immediately given a safe opportuni
 
 ![pic13](DocImages/pic13.png)
 
-The player enters a small combat encounter where they can practice the newly learned combat mechanics.
+The player enters a small combat encounter where he can practice the newly learned combat mechanics.
 
 ![pic14](DocImages/pic14.png)
 
@@ -102,8 +103,6 @@ My level presents a fair challenge. The initial peaceful setting creates a sense
 The primary goal of player engagement is to encourage players to explore the game world at their own pace, rewarding them with discoveries and memorable locations.
 My level features a branching level design. Players have multiple paths they can take to progress through the level, fostering a sense of agency and allowing for different playthroughs. Hidden secrets: Hidden health pickups and memorable locations are scattered throughout the level to reward player exploration. My level is also divided into visually distinct areas. These environments have unique aesthetics and themes to create a sense of place and encourage exploration of every corner. For example, in my level:
 
-![order](DocImages/order.png)
-
 The player reaches a fork in the road, where one path leads directly to the next objective, and the other leads to a secret, mysterious area.
 
 ![pic7](DocImages/pic7.png)
@@ -118,6 +117,9 @@ The player emerges from the underground tunnels to a view of a grassy landscape,
 
 
 ## 2. Core Gameplay (~400 words)
+
+![order](DocImages/order.png)
+
 Acid:
 Early introduction of acid pits teaches players about environmental hazards and the importance of careful movement. Since it's early in the game, the hazard is introduced in a very safe way. If the player makes a mistake, he has a chance to correct it without losing progress. If he makes two mistakes, he is punished by losing his health and returning to the start.
 
@@ -129,12 +131,12 @@ Spikes demonstrate the concept of instant danger zones and the need to avoid the
 ![pic21](DocImages/pic21.png)
 
 Health pickups:
-Usually placed in zones with ‘moments of relief’ and safe areas to show their role in replenishing health lost to hazards or enemies. Also used as a reward for exploring the level.
+Usually placed in zones with ‘moments of relief’ and safe areas to show their role in replenishing health lost due to hazards or enemies. Also used as a reward for exploring the level.
 
 ![pic22](DocImages/pic22.png)
 
 Pass-through platforms:
-Introduce the concept of hidden paths and encourage exploration. First encountered early in the game, but the player likely won't notice it since it's there for convenience. Fully utilized after the health pickup is introduced. Player can go through it for a faster path or go down an alternate path for a reward.
+Introduce the concept of hidden paths and encourage exploration. First encountered early in the game, but the player likely won't notice it since it's there for convenience. Pass-through platforms are fully utilized after the health pickup is introduced. Player can go through it for a faster path or go down an alternate path for a reward.
 
 ![pic23](DocImages/pic23.png)
 
@@ -173,13 +175,10 @@ Key pickup:
 ![pic30](DocImages/pic30.png)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
 
-![Molecule Diagram](DocImages/Molecule Diagram.png)
+![Molecule Diagram](DocImages/Molecule_Diagram.png)
 
 ### 3.2. Level Map – Section 1
 
