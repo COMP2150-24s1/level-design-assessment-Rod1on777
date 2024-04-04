@@ -102,6 +102,8 @@ My level presents a fair challenge. The initial peaceful setting creates a sense
 The primary goal of player engagement is to encourage players to explore the game world at their own pace, rewarding them with discoveries and memorable locations.
 My level features a branching level design. Players have multiple paths they can take to progress through the level, fostering a sense of agency and allowing for different playthroughs. Hidden secrets: Hidden health pickups and memorable locations are scattered throughout the level to reward player exploration. My level is also divided into visually distinct areas. These environments have unique aesthetics and themes to create a sense of place and encourage exploration of every corner. For example, in my level:
 
+![order](DocImages/order.png)
+
 The player reaches a fork in the road, where one path leads directly to the next objective, and the other leads to a secret, mysterious area.
 
 ![pic7](DocImages/pic7.png)
@@ -177,7 +179,7 @@ No additional words are necessary for this section (any words should only be wit
  
 ### 3.1. Molecule Diagram
 
-
+![Molecule Diagram](DocImages/Molecule Diagram.png)
 
 ### 3.2. Level Map – Section 1
 
@@ -201,20 +203,32 @@ Red lines - Wrong action that led to death
 
 ## 4. Iterative Design (~400 words)
 Using iterative design was essential in determining my proficiency. Here's how it helped:
+
 Early drawn prototypes:
 
 ![pic31](DocImages/pic31.png)
 
-The level's exploration flow and opponent placement were better visualized with the aid of rough sketches of the layout.
-Storyboards for games to come:
+![pic311](DocImages/pic311.png)
 
+The level's exploration flow and opponent placement were better visualized with the aid of rough sketches of the layout:
 
+The very first sketch of the first level:
+
+![pic32](DocImages/pic32.png)
+
+Design of an encounter that was planned to be in the 3rd segment of the level, but after playtesting it was moved to the second segment:
+
+![pic33](DocImages/pic33.png)
 
 The majority of the storyboards were made for the areas that introduced new elements, like difficult jumps, fighting situations, and environment-based puzzles.
+(Were shown in section 2)
 
 Modification considering internal testing:
-•	In Unity, a few modifications were made from the original level design sketches:
+
+•	In Unity, a few modifications were made from the original level design sketches.
+
 •	Many platform distances were changed to conform to the character's physics.
+
 •	Additional health pickups were strategically placed in response to early enemy encounters that proved slightly more difficult than anticipated. After that, the sketch was modified to account for these adjustments (for ease).
 These iterations show how the level is continuously improved based on different testing and prototyping phases.
 
@@ -222,6 +236,7 @@ The goal for additional development:
 The last encounter in the third basement encounter is one place where a more iterative design could be beneficial. At the moment, it entails taking off a few simple mobs as well as a mini-boss with a wide strike radius.
 This might be made more challenging by adding a mini-boss with distinct attack patterns that would need to be defeated by carefully using the staff or handgun that player just obtained.
 This would improve player preparation for impending challenges and make the encounter more captivating and fascinating.
+
 Through iterative design, my level evolved from a concept into a well-balanced and engaging introduction to the core game mechanics. Further iterations of specific encounters can continue to refine the gameplay and ensure a smooth learning curve for players.
 
 
